@@ -21,4 +21,4 @@ which needs nothing beyond the standard library.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=ys7972mt&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) — AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=n230wh44&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) — AI agents build software for cash rewards</sub>
